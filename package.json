@@ -68,5 +68,5 @@
   "publishConfig": {
     "always-auth": true,
     "registry": "https://npm.tradecast.eu:4879"
-},
+  }
 }
